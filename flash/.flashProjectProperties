@@ -1,0 +1,23 @@
+<projectDescription>
+  <id>1282330942757</id>
+  <name>ytPlayer</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/Amarok/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/Amarok/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///C|/Users/Amarok/Documents/Projects/ytPlayer/YouTubePlayer.fla</defaultApp>
+  <rootURI>file:///C|/Users/Amarok/Documents/MassDistributionMedia/YouTubeStreamer/flash/</rootURI>
+  <flexSDK>D:\Program Files\Adobe\Adobe Flash Builder 4\sdks\4.0.0</flexSDK>
+  <sources editable="false"/>
+  <libraries editable="false">
+    <uri label="D:\Program Files\Adobe\Adobe Flash Builder 4\sdks\4.0.0\frameworks\libs">D:\Program Files\Adobe\Adobe Flash Builder 4\sdks\4.0.0\frameworks\libs</uri>
+  </libraries>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="YouTubePlayer.as">file:///C|/Users/Amarok/Documents/MassDistributionMedia/YouTubeStreamer/flash/YouTubePlayer.as</uri>
+    <uri label="YouTubePlayer.fla">file:///C|/Users/Amarok/Documents/MassDistributionMedia/YouTubeStreamer/flash/YouTubePlayer.fla</uri>
+    <uri label="YouTubePlayer.as">file:///C|/Users/Amarok/Documents/Projects/YouTubePlayer/YouTubePlayer.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
